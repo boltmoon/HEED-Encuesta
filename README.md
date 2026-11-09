@@ -1,2 +1,2 @@
 # HEED-Encuesta
-Landing page Fórmula Momentum
+Landing page HEED PARALLAX
